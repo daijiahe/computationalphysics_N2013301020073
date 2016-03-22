@@ -27,7 +27,7 @@ i从1循环到n，每次增加dt的时间
 ##绘图工具
 本次作业使用作图工具为matplotlib库
 ##程序实现
-Python源代码：
+Python源代码：[chapter1.py]( https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/chapter1.png)
 ##V-t图
 效果图：![alt text](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/chapter1.png) 
 ##结果分析
