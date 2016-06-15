@@ -12,13 +12,15 @@
 ### 作业L1 在屏幕上用字符拼出自己姓名的英文
 效果如图
 ![3-2](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-1.png)
-代码如下(https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/First%20letter%20of%20my%20name.py)
+代码如下
 ```python
-print "##### #   #   #   #   #  ####        ###  ##### "
-print "   #  #   #  # #  ##  # #           #   #   #   "
-print "  #   ##### ##### # # # #  ##       # # #   #   "
-print " #    #   # #   # #  ## #   #       #  ##   #   "
-print "##### #   # #   # #   #  ####        #### ##### "
+print '**** * *                       **********                    *         *      ' 
+print '*        *                          *                        *         *     '
+print '*         *                         *                        *         *     ' 
+print '*         *                         *                        ***********       '
+print '*        *                          *                        *         *  '
+print '***  * *                         ***                         *         * '
+raw_input('Press Enter to exit...')
 ```
 
 
