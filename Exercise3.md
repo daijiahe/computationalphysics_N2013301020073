@@ -87,7 +87,7 @@ type(voc,word)
 
 ### 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
 
-画了一个斜眼图（静态的）。
+画了一个鬼畜的笑容。
 代码如下：
 ```python
 print '                     .;;hShhhhhh5s;;.                      '
@@ -96,7 +96,7 @@ print '             .i1hi:,                 .:s1hh:               '
 print '          ,59hi:.  ..                    .rs1r             '
 print '        rS9hs;;iiiii1s1i:                   ;35,           '
 print '      ,9B@MS         .:iS5,                   18i          '
-print '      39B@#H,  . .       r9;                   :8r         '
+print '      39Bheh,  . .       r9;                   :8r         '
 print '    ,3sh33hrrrrrrrsh1:    :G;                   ,8s        '
 print '   ;As  . .        ,r35    i8:     ,:riiii::,    ,8r       '
 print '  .8r                 59    hS   1ss      ^rh51i  :8,      '
@@ -110,11 +110,11 @@ print ' 1r ,9                          iS   iXr       s55H5S1     '
 print ' ,S,.8s                         ;3    ;95ss:        &:     '    
 print '  19 ,9i                         r8s,   ,:sS1111h5i9A;.    '    
 print '   8h iXh                         :1ShSsir...   .::is133i  '    
-print '   :8S .99i                           ,;:ss1SSs        iX5 '    
+print '   :8S .zzw                           ,;:ss1SSs        iX5 '    
 print '     39. i9S:.                          ,i:  GAX5        HG'   
 print '      ;8h  :;hhs.                   .;158r  58.8@1      :#8'   
 print '       ,1Ss.  ,is5s1;;.      .,;rh1Ssir,  r9S. r@8     .AB.'   
-print '         .11hs:   .iihsssssssshhri,     r9S:  ;HB.    rAX. '   
+print '         .11hs:   .iihdaijiahehhri,     r9S:  ;HB.    rAX. '   
 print '            .iisS1:,               ,:55rr:   rH3.    3@5   '   
 print '               rXhshrhsiirririis515rr.      i:      X@G    '  
 print '                 i&.  .:::::,::::.                    h@X. '   
