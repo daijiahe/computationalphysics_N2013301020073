@@ -12,7 +12,7 @@ My name is Jiahe Dai，well，you can also call me English name David.Showing tr
 
 ##Homework list
 - [x] [Exercise_03: All levels](https://github.com/chenfeng2013301020145/computational-physics_N2013301020145/blob/master/Exercise/1st%20assignment.md)
-- [x] [Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://www.zybuluo.com/355073677/note/318129)
+- [x] [Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9Achapter1.md)
 - [x] [Exercise_05: Chapter 1 problem 1.6: Population growth](https://www.zybuluo.com/355073677/note/322726)
 - [x] [Exercise_06: Chapter 2 problem 2.9 & 2.10: The cannon](https://www.zybuluo.com/355073677/note/331446)
 - [x] [Exercise_07: Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball](https://www.zybuluo.com/355073677/note/339666)
