@@ -9,7 +9,7 @@
 
 
 ## 正文
-### 作业L1 在屏幕上用字符拼出自己姓名的英文
+### 作业L1 在屏幕上用字符拼出自己英文姓名的首字母
 效果如图
 ![3-2](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-1.png)
 代码如下
