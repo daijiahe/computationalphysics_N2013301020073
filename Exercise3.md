@@ -87,7 +87,6 @@ type(voc,word)
 
 ### 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
 
-#### 第一版
 画了一个斜眼图（静态的）。
 代码如下：
 ```python
@@ -128,72 +127,9 @@ print '                   :H9                                .&#; '
 print '                   1#                                .MM.  '   
 ```
 
-#### 第二版
-下面让这幅图可以横向移动30格
-
-效果如图
-
-![3-3](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-3.jpg)
-
-代码如下：
-```python
-import os
-#              123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
-picture=['                     .;;hShhhhhh5s;;.                      '] #0
-picture.append('                  ,:;rr:;,       .:irrr:                   ') #1
-picture.append('             .i1hi:,                 .:s1hh:               ') #2
-picture.append('          ,59hi:.  ..                    .rs1r             ') #3
-picture.append('        rS9hs;;iiiii1s1i:                   ;35,           ') #4
-picture.append('      ,9B@MS         .:iS5,                   18i          ') #5
-picture.append('      39B@#H,  . .       r9;                   :8r         ') #6
-picture.append('    ,3sh33hrrrrrrrsh1:    :G;                   ,8s        ') #7
-picture.append('   ;As  . .        ,r35    i8:     ,:riiii::,    ,8r       ') #8
-picture.append('  .8r                 59    hS   1ss      ^rh51i  :8,      ') #9
-picture.append('  5h                   59.  5S  58sr.        .;S3; 13      ') #10
-picture.append(' .8.                    h9s59; 18h@@h           ;S1 9i     ') #11
-picture.append(' s1 .r                   ;5r   ;Gs9G1rhsrsshr:   .81i9     ') #12
-picture.append(' sr i9                          ::888;     :s8S   ,G,9.    ') #13  
-picture.append(' 1r 91                                        85   9G9.    ') #14 
-picture.append(' 1r r9                          .h1:iSi       ;9, ;MH&     ') #15  
-picture.append(' 1r ,9                          iS   iXr       s55H5S1     ') #16   
-picture.append(' ,S,.8s                         ;3    ;95ss:        &:     ') #17   
-picture.append('  19 ,9i                         r8s,   ,:sS1111h5i9A;.    ') #18
-picture.append('   8h iXh                         :1ShSsir...   .::is133i  ') #19
-picture.append('   :8S .99i                           ,;:ss1SSs        iX5 ') #20
-picture.append('     39. i9S:.                          ,i:  GAX5        HG') #21
-picture.append('      ;8h  :;hhs.                   .;158r  58.8@1      :#8') #22
-picture.append('       ,1Ss.  ,is5s1;;.      .,;rh1Ssir,  r9S. r@8     .AB.') #23
-picture.append('         .11hs:   .iihsssssssshhri,     r9S:  ;HB.    rAX. ') #24
-picture.append('            .iisS1:,               ,:55rr:   rH3.    3@5   ') #25
-picture.append('               rXhshrhsiirririis515rr.      i:      X@G    ') #26 
-picture.append('                 i&.  .:::::,::::.                    h@X. ') #27
-picture.append('                  13                                   5@S ') #28
-picture.append('                   h1                                   &#.') #29
-picture.append('                   55                                   5#.') #30
-picture.append('                   ;X,                                  5@,') #31
-picture.append('                    G&                                 .&B.') #32
-picture.append('                   :H9                                .&#; ') #33
-picture.append('                   1#                                .MM.  ') #34
-
-import os
-
-for i0 in range(30):
-    i = os.system('cls')
-    for i1 in range(35):
-        for i2 in range(i0):
-            print '',
-        print picture[i1]
-
-raw_input()
-```
-
-#### 第三版
-接下来还会继续制作其他移动方式。
 
 ## 结论
-
-待会弄个图片上去。
-
+* 虽然这个作业并不是很难,它为我们提供了一个机会来创建我们自己想在屏幕上显示和表达的东西。这是设计一个项目的第一步，控制显示器或LED屏幕,在我们的日常生活中随处可见。
 ## 致谢
 
-* 这次作业没有参考别人的结果。
+* 本人全程菜鸟打怪升级，此次作业学习了多位同学，感谢隔壁老王悉心指导，以及张琦和孙博洋同学的精彩内容呈现。
