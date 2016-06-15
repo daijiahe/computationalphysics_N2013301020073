@@ -11,7 +11,7 @@
 ## 正文
 ### 作业L1 在屏幕上用字符拼出自己英文姓名的首字母
 效果如图
-![3-2](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-1.png)
+![3-2](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Letter.png)
 代码如下
 ```python
 print '**** * *                       **********                    *         *      ' 
@@ -40,7 +40,7 @@ raw_input('Press Enter to exit...')
 使用了一个二维数组，并没有使用字典。为了简便，每个字母用5*5的字符表示出来。表示数组的每一行代表一个字母，每一列代表每个字母的每一行。后面为了简洁，因此使用了一个数表和循环进行识别输入的字符。以下这个是不支持换行的，后面对代码进行了升级，可以实现换行。
 
 效果如图：
-![3-2](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-2.png)
+![3-2](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Letter.png)
 
 代码如下：
 ```python
