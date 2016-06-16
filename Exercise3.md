@@ -11,7 +11,7 @@
 ## 正文
 ### 作业L1 在屏幕上用字符拼出自己英文姓名的首字母
 效果如图
-![3-2](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Letter.png)
+![3-2](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/N(2T0%5BFP%25)~K%5D5ZMPUP%24RS2.png)
 代码如下
 ```python
 print '**** * *                       **********                    *         *      ' 
