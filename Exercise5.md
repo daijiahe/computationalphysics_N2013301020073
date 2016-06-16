@@ -36,3 +36,5 @@ show()
 ```
 ##The following is the diagram of the running program
 ![效果图](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A.png) 
+##Acknowledgment 
+Showing great thanks to Old Wang of next room who provides different ideas to me.
