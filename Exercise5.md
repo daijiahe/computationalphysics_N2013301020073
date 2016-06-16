@@ -33,3 +33,5 @@ xlabel('time axis')
 ylabel('velocity axis')
 legend(loc='upper left')
 show()
+```
+![效果图]
