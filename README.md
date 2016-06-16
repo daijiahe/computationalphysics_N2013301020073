@@ -13,7 +13,7 @@ My name is Jiahe Dai，well，you can also call me English name David.Showing tr
 ##Homework list
 - [x] [Exercise_03: Level 1&Level 2](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Exercise3.md)
 - [x] [Exercise_04: Chapter 1 problem 1.3: Answering for terminal velocity](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9Achapter1.md)
-- [x] [Exercise_05: Chapter 1 problem 1.1: The velocity of a freely falling object near Earth's surface()
+- [x] [Exercise_05: Chapter 1 problem 1.1: The velocity of a freely falling object near Earth's surface(https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Exercise5.md)
 - [x] [Exercise_06: Chapter 2 problem 2.9 & 2.10: The cannon](https://www.zybuluo.com/355073677/note/331446)
 - [x] [Exercise_07: Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball](https://www.zybuluo.com/355073677/note/339666)
 - [x] [Exercise_08: Chapter 3 problem 3.4: Non-linear oscillator](https://www.zybuluo.com/355073677/note/345564)
