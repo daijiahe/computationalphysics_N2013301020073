@@ -16,7 +16,7 @@ My name is Jiahe Dai，well，you can also call me English name David.Showing tr
 - [x] [Exercise_05: Chapter 1 problem 1.1: The velocity of a freely falling object near Earth's surface](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Exercise5.md)
 - [x] [Exercise_06: Chapter 2 problem 2.9 & 2.10: The cannon](https://www.zybuluo.com/David88/note/410390)
 - [x] [Exercise_07: Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball](https://www.zybuluo.com/David88/note/411250)
-- [x] [Exercise_08: Chapter 3 problem 3.4: Non-linear oscillator](https://www.zybuluo.com/David88/note/412517)
+- [x] [Exercise_08: Chapter 3 problem 3.8: The relationship between the amplitude and period numerically](https://www.zybuluo.com/David88/note/412517)
 - [x] [Exercise_09: Chapter 3 problem 3.16: Strange attractor](https://www.zybuluo.com/355073677/note/352897)
 - [x] [Exercise_10: Chapter 3 problem 3.31: Billiard ball on diverse table](https://www.zybuluo.com/355073677/note/360879)
 - [x] [Exercise_11: Chapter 4 problem 4.11: The percession of Mercury](https://www.zybuluo.com/355073677/note/366943)
