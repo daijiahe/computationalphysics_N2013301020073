@@ -4,7 +4,7 @@
 **Student number: 2013301020073**
 
 #Write in the first course,write in my heart.  
-My name is Jiahe Dai，well，you can also call me English name David.Showing truely interesting in computational physics,I will put my heart into this course definitely,and I wish I could get 90+ in the final.么么哒 for my great teacher Cai.
+My name is Jiahe Dai，well，you can also call me English name David.Showing truely interesting in computational physics,I will put my heart into this course definitely,*and I wish I could get 90+ in the final.么么哒 for my elegent and respectable teacher Cai.*Ademittedly,our assitant teacher also made contribution and sacriface,么么哒 too.
 #Now I will give you some characters about an enthusiatic leo boy:
 - *First,without doubt，I fight for LOL too，but now I have not concentrate to it because LOL take most of my energy and too many pit teammates in it.
 - *Second,recently I plan to improve my English level,so I must take much time on training speaking English and Listening.I have sign for Toefl at the end of May,good luck to me.
