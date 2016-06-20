@@ -19,7 +19,7 @@ My name is Jiahe Dai，well，you can also call me English name David.Showing tr
 - [x] [Exercise_08: Chapter 3 problem 3.8: The relationship between the amplitude and period numerically](https://www.zybuluo.com/David88/note/412517)
 - [x] [Exercise_09: Chapter 3 problem 3.12:The chaotic pendulum](https://www.zybuluo.com/David88/note/412574)
 - [x] [Exercise_10: Chapter 3 problem 3.26: The Lorenz model in the study of weather phenomena](https://www.zybuluo.com/David88/note/413457)
-- [x] [Exercise_11: Chapter 4 problem 4.11: The percession of Mercury]()
+- [x] [Exercise_11: Chapter 4 problem 4.11: The percession of Mercury](https://www.zybuluo.com/David88/note/413489)
 - [x] [Exercise_12: Chapter 4 problem 4.18: The Kirkwood Gap]()
 - [x] [Exercise_13: Chapter 5 problem 5.7: The Jacobi method v.s. The SOR algorithm]()
 - [x] [Exercise_14: Chapter 6 problem 6.15: The realistic string problem]()
