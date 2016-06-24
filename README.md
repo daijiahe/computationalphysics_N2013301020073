@@ -21,8 +21,8 @@ My name is Jiahe Dai，well，you can also call me English name David.Showing tr
 - [x] [Exercise_10: Chapter 3 problem 3.26: The Lorenz model in the study of weather phenomena](https://www.zybuluo.com/David88/note/413457)
 - [x] [Exercise_11: Chapter 4 problem 4.7: Orbital motion found in a hypothetical solar system.](https://www.zybuluo.com/David88/note/413489)
 - [x] [Exercise_12: Chapter 4 problem 4.16: Three-body motion simulation](https://www.zybuluo.com/David88/note/413582)
-- [x] [Exercise_13: Chapter 5 problem 5.7: The Jacobi method v.s. The SOR algorithm](https://www.zybuluo.com/David88/note/417109)
-- [x] [Exercise_14: Chapter 6 problem 6.15: The realistic string problem](https://www.zybuluo.com/David88/note/417127)
+- [x] [Exercise_13: problem 5.3: Potential of the capacitor problem](https://www.zybuluo.com/David88/note/417109)
+- [x] [Exercise_14: Chapter 6 problem 6.6: Wave packets Simlulation](https://www.zybuluo.com/David88/note/417127)
 - [x] Final work:{代码清单:[First order](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Final/weights.py),[Second order](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Final/(Squish%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)config.py),[Third order](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Final/%EF%BC%88Squish%E7%9A%84Game%E5%AF%B9%E8%B1%A1%EF%BC%89objects.py),[Fourth order](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Final/%EF%BC%88%E4%B8%BBGame%E6%A8%A1%E5%9D%97%EF%BC%89squish.py)，期末论文在这：[paper](https://github.com/daijiahe/computationalphysics_N2013301020073/blob/master/Final/Final%20Python.pdf)}
 
 Stay tuned. See you next time. Goodbye.
